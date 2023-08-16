@@ -1,10 +1,11 @@
 
-- The idea / this blog
+- The idea / blog
 - get domain
 - setup mail
-- setup hosting (github pages)
+- setup hosting (GitHub pages)
 - setup search console
 - get template Jekyll
 - write stuff
-- adsense / monitization
+- AdSense / monetization
+- Instagram / social media / roadtorolexNL
 - ?
