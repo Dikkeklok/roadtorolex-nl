@@ -1,3 +1,9 @@
+---
+title: notes
+sitemap: false
+---
+
+Notepad: 
 
 - The idea / blog
 - get domain
