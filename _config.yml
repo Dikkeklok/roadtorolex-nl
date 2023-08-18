@@ -2,8 +2,8 @@ title: Road to Rolex
 email: info@roadtorolex.nl
 description: "Blog containing updates about the dikkeklok.nl project, with the ultimate goal to earn a Rolex watch through that website.
 This blog will focus on tracking overal decisions, monitization considerations, and technical setup frustrations."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site, e.g. http://example.com
 author: "Daan Goumans"
 instagram_username: "roadtorolexNL"
 show_excerpts: true
