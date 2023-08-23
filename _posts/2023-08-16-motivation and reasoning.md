@@ -22,4 +22,4 @@ The goal I've set for myself is in my opinion ambitious, but at the same time re
 A lot of advertisements these days claim that it is super easy to make X amount a month while working from home, with basically no effort. I might try out some of these influencer tips to see if they are true - which will also allow me to explain why, or why not, certain tips are working. This all should result in interesting and educational content, that might inspire someone else to start a little side gig related to their own personal hobbies or interests.
 
 ## What's next?
-For now, as you can tell, certain bits and pieces are already live. I will go back and retrospectively add blogs to explain how things started. I'll try to share as many details as possible. More to come soon!
+For now, as you can tell, certain bits and pieces are already live. I will go back and retrospectively add blogs to explain how things started. I'll try to share as many details as possible. 

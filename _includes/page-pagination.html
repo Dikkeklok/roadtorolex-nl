@@ -1,0 +1,16 @@
+<div class="footer-col-wrapper">
+    <div class="footer-col page-pre-next-col-1">
+      {% if page.previous %}
+          <i><a href="{{ page.previous.url }}" class="previous">
+            Previous: {{ page.previous.title }}
+          </a></i>
+      {% endif %}
+    </div>
+    <div class="footer-col page-pre-next-col-2">
+      {% if page.next %}
+        <i><a href="{{ page.next.url }}" class="next">
+          Next: {{ page.next.title }}
+        </a></i>
+      {% endif %}
+    </div>
+</div>

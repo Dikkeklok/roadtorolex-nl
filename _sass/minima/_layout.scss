@@ -99,6 +99,20 @@
   }
 }
 
+/**
+* Pagination bottom post
+*/
+
+.page-pre-next-col-1 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+.page-pre-next-col-2 {
+  text-align: right;
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
 
 
 /**
