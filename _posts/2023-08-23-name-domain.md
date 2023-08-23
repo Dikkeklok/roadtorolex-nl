@@ -9,9 +9,7 @@ Sometimes, a name is all you need. It just pops up in your head and you immediat
 ## The Gem
 In this case, my 'hidden gem' came up as _Dikke Klok_. This roughly translates to [_"baller"-watch_](https://www.urbandictionary.com/define.php?term=baller) in Dutch. _"Dikke"_ or something being _"dik"_ is often used to refer to something cool, fancy, flashy, expensive, etcetera. The exact category to describe the latest Nike sneakers, newest gadgets, sports cars, or limited edition releases of watches. 
 
-Being able to use this name sounded too good to be true.
-
-Well, I guess there's only one way to find out, then, right?
+Being able to use this name sounded too good to be true. Well, I guess there's only one way to find out, then, right?
 
 ## Registering the domain
 Being familiar with one of the biggest domain registers in The Netherlands, TransIP, it was a logical choice to go with them and register my domain there. They even had a promotion ongoing where U could register a _.nl_ domain for **just 0.49 EUR**.
