@@ -67,6 +67,6 @@ One of the better things about using Github for hosting the website is that it c
 ## In summary
 The site is hosted on Github Pages. Every change of content can be viewed in the repository [https://github.com/Dikkeklok/dikkeklok-nl](https://github.com/Dikkeklok/dikkeklok-nl). If you have any suggestions of would even like to contribute, feel free to make a pull request.
 
-For the next blog, I will try to dive into the changes I've made (such as the inclusion of analytics) and will gather the numbers to publish an update on click and visitor numbers. _More soon..._
+For the next blog, I will try to dive into the changes I've made (such as the inclusion of analytics), and will gather the numbers to publish an update on click and visitors. _More soon..._
 
-> _I've added an 'in progress'-folder, this folder will contain some of the blogs that are in progress or that require some more thoughts_
+> _I've added an ['in progress'-folder on Github](https://github.com/Dikkeklok/roadtorolex-nl), this folder will contain some of the blogs that are in progress or that require some more thoughts_
